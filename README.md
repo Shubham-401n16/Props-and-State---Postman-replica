@@ -7,7 +7,8 @@
 ### Links and Resources
 * [Code Sandbox]
 * [Github Actions]
-* [Netlify App] ([Netlify App](https://amazing-babbage-d45d3c.netlify.app/)
+* [Submission PR](https://github.com/Shubham-401n16/Props-and-State---Postman-replica/pull/2
+* [Netlify App](https://amazing-babbage-d45d3c.netlify.app/)
 
 #### Documentation
 * [api docs](http://xyz.com/api-docs) (API servers)
