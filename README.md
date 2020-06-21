@@ -7,7 +7,7 @@
 ### Links and Resources
 * [Code Sandbox](https://codesandbox.io/s/github/Shubham-401n16/Props-and-State---Postman-replica)
 * [Github Actions]
-* [Netlify App](https://amazing-babbage-d45d3c.netlify.app/)
+* [Netlify App](https://happy-goldwasser-2564c6.netlify.app)
 
 #### Documentation
 * [api docs](http://xyz.com/api-docs) (API servers)
