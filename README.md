@@ -1,6 +1,6 @@
 # Props-and-State---Postman-replica
 
-## React Testing and Deployment
+## Props And State
 
 ### Author: Shubham Majumdar
 
@@ -24,6 +24,8 @@
 * create-react-app ./
 * npm install node-sass
 * npm install enzyme-adapter-react-16
+* npm install react-router-dom
+
   
 #### Tests
 * How do you run tests?

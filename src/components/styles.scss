@@ -40,10 +40,25 @@
       height: 20px;
     position: relative;
     font-family: Arial;
+    margin-bottom: 20px;
   }
   
   
   .select-selected {
     background-color: DodgerBlue;
   }
+
+  #nav li {
+    display: inline;
+    padding-right: 30px;
+  }
+
+  .body-entry  {
+    display:inline-block;
+}
+
+.header-entry {
+  display:inline-block;
+
+}
   
