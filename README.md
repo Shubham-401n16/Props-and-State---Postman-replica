@@ -1,12 +1,13 @@
 # Props-and-State---Postman-replica
 
-## React Testing and Deployment
+## props And State
 
 ### Author: Shubham Majumdar
 
 ### Links and Resources
 * [Code Sandbox]
 * [Github Actions]
+* [Netlify App]
 
 #### Documentation
 * [api docs](http://xyz.com/api-docs) (API servers)
@@ -23,6 +24,8 @@
 * create-react-app ./
 * npm install node-sass
 * npm install enzyme-adapter-react-16
+* npm install react-router-dom
+
   
 #### Tests
 * How do you run tests?

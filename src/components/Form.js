@@ -42,6 +42,21 @@ function Form(props) {
         </button>
 
             </div>
+            <div className='body-entry'>
+                <label>BODY:</label>
+                <textarea
+                    value={props.body}
+                    onChange={props.onBodyChange}
+                ></textarea>
+            </div>
+            <div className='header-entry'>
+                <label>HEADERS:</label>
+                <textarea
+                    value={props.headers}
+                    onChange={props.onHeadersChange}
+                ></textarea>
+            </div>
+
             <button className="submit" onClick={props.onSubmit}>Submit</button>
         </div>
     );
